@@ -12,15 +12,18 @@ url: "https://www.cerdiperro.ga/" # the base hostname & protocol for your site, 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Lugares Visitados', link: '/'}
-  - {name: 'Lugares por conocer', link: '/about'}
+  - {name: 'Lugares por conocer', link: '/lugaresconocer'}
   - {name: 'Proximamente', link: '/contact'}
+
+collections:
+  - posts2
 
 tagline: >
   Cerdiperro
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email:  # email for form submission
+email: juanchan1998@gmail.com
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 # github_username:  janczizikow # replace with your_github_username or comment to remove link from footer

@@ -218,6 +218,7 @@ gulp.task( "watch", () => {
     "_layouts/*.html",
     "_includes/*.html",
     "_posts/*.md",
+    "_posts2/*.md",
     "pages_/*.md",
     "_include/*html"
   ], gulp.series( "rebuild" ) );
