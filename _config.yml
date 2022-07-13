@@ -11,8 +11,8 @@ url: "https://www.cerdiperro.ga/" # the base hostname & protocol for your site, 
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Sitios Visitados', link: '/'}
-  - {name: 'Sitios por conocer', link: '/about'}
+  - {name: 'Lugares Visitados', link: '/'}
+  - {name: 'Lugares por conocer', link: '/about'}
   - {name: 'Proximamente', link: '/contact'}
 
 tagline: >
