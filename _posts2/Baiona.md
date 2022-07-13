@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Pontedeume
-summary: Un pueblo con un puente y unas croquetas muy sin más
-featured-img: pontedeume
+title: Baiona
+featured-img: baiona
 ---
 
 # Resumen del viaje

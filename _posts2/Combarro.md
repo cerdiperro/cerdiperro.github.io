@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pontedeume
+title: Combarro
 summary: Un pueblo con un puente y unas croquetas muy sin más
-featured-img: pontedeume
+featured-img: combarro
 ---
 
 # Resumen del viaje
